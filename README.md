@@ -6,11 +6,11 @@
 
 # Index
 
-- [Curriculum Vitæ](CV/)
+- [Curriculum Vitæ](cv/)
   > My current CV.
-- [Blog](Blog/)
+- [Blog](blog/)
   > My personal blog. Mostly technical content. Also see my [creative blog](https://crtejaswi.wordpress.com).
-- [Śloka](Shloka/)
+- [Śloka](shloka/)
   > A collection of Sanskrit Chants (Śloka).
-- [Talks](Talks/)
+- [Talks](talks/)
   > A collection of talks that I have presented.
