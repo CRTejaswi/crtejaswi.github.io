@@ -10,3 +10,5 @@
 - [Vim: Structuring Web Projects](14-02-2021.md)
 - [PS: Generating QRCode Images](15-02-2021.md)
 - [PS: Login Cmdlet](16-02-2021.md)
+- [PS: Photo SlideShow](17-02-2021.md)
+
