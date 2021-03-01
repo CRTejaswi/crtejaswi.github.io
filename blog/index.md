@@ -12,5 +12,6 @@
 - [PS: Login Cmdlet](16-02-2021.md)
 - [PS: Photo SlideShow](17-02-2021.md)
 - [Control Flow](28-02-2021.md)
+- [PS: Printing Text In All Fonts](01-03-2021.md)
 - [Vim: Cleaning Data-Files](02-03-2021.md)
 
