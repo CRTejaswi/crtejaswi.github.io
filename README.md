@@ -1,7 +1,6 @@
 # Chaitanya Tejaswi
 
-<div align="left" markdown="1">
-
+<div align="right" markdown="1">
 [![Email](media/mail.png)](mailto:crtejaswi13@gmail.com) |
 [![Phone](media/phone.png)](tel:+919687420050) |
 [![LinkedIn](media/linkedin_dark.png)](https://linkedin.com/in/chaitanya-tejaswi-129b67108) |
