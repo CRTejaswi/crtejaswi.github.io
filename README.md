@@ -1,3 +1,5 @@
+# Chaitanya Tejaswi
+
 <div align="left" markdown="1">
 
 [![Email](media/mail.png)](mailto:crtejaswi13@gmail.com) |
