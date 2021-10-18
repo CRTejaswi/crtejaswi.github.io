@@ -15,4 +15,7 @@
 - [PS: Printing Text In All Fonts](01-03-2021.md)
 - [Vim: Cleaning Data-Files](02-03-2021.md)
 - [PS: History](07-03-2021.md)
+- [Reading List](30-06-2021.md)
+- [Verilog: Vending Machine](18-10-2021.md)
+
 
