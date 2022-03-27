@@ -17,6 +17,7 @@
 - [PS: History](07-03-2021.md)
 - [Reading List](30-06-2021.md)
 - [Verilog: Vending Machine](18-10-2021.md)
-- [Download NPTEL Lectures](22-10-2021.md)
+- [Download NPTEL Lectures 1](22-10-2021.md)
+- [Download NPTEL Lectures 2](28-03-2022.md)
 
 
